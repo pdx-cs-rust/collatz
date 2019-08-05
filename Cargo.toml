@@ -1,0 +1,9 @@
+[package]
+name = "collatz"
+version = "0.1.0"
+authors = ["Bart Massey <bart@cs.pdx.edu>"]
+edition = "2018"
+
+[dependencies]
+rayon = "1.1.0"
+lazy_static = "1.3.0"
